@@ -46,7 +46,8 @@ The Dev Container will point to a `SeqRepoRESTDataProxy` instance. [SeqRepo REST
 
 Open the VS Code Command Palette: Shift + Command + P (Mac) / Ctrl + Shift + P (Windows/Linux)
 
-Type and select the following inside the Command Palette: `> Dev Containers: Rebuild and Reopen in Container`
+Type and select the following inside the Command Palette: `> Dev Containers: Rebuild and Reopen in Container`\
+_Note: It might only have `Rebuild and Reopen in Container` in a different VS Code version_
 
 The Dev Container will be created and install the dependencies needed.
 
